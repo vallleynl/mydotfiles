@@ -1,0 +1,16 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = vallleynl
+	email = marc_dalhuisen@hotmail.com
+	mail = marc_dalhuisen@hotmail.com
+[core]
+	autocrlf = input
+
+# Added the following myself
+
+[web]
+		browser = google-chrome
