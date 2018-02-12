@@ -7,7 +7,7 @@ Ill talk about what I used, how, and why.
 ### 01 Changes in the Terminal>Preferences:
 ![Screenshot of my settings](https://i.imgur.com/LR3MtKu.png "Preferences of my terminal")
 
-### 02 Customizing .bash_profile
+### **02 Customizing .bash_profile**
 
 ```
 welcome() {
